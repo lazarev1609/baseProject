@@ -1,2 +1,1 @@
-# baseProject
-Основа для бэка
+Base project for start backend
